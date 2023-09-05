@@ -25,3 +25,12 @@ $ git branch
 # 8: Realizamos nuestro push
 $ git push -u origin main
 
+#Tabla de compañeros |
+Nombre | Github |
+PACHECO ROSALES VICTOR MANUEL | XxXelbichoXxX |
+Juan Antonio Graxiola Quiroz | Railgun124 |
+MARÍN BAUTISTA MARLETT ALESSANDRA | Alessandra222 |
+Mayté Guadalupe Salas | msalas18 |
+LÓPEZ RAMOS VICTOR DANIEL | dloram15 |
+
+
